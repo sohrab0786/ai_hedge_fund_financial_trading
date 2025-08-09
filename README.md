@@ -61,8 +61,8 @@ Before you can run the AI Hedge Fund, you'll need to install it and set up your 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
-cd ai-hedge-fund
+git clone https://github.com/sohrab0786/ai_hedge_fund_financial_trading.git
+cd ai_hedge_fund_financial_trading
 ```
 
 ### 2. Set Up Your API Keys
